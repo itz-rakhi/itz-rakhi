@@ -30,7 +30,11 @@ Passionate about building modern web applications and interactive dashboards usi
 ![](https://github-readme-stats.shion.dev/api?username=itz-rakhi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=itz-rakhi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=itz-rakhi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itz-rakhi&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
+</p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
