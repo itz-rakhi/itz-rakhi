@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rakhi Samant</h1>
+<h1 align="center">Hi 👋, I'm Rakhi Avadut Samant</h1>
 <h3 align="center">Computer Engineering Student | Java Full Stack Developer | Data Analytics Enthusiast</h3>
 
 <p align="center">
