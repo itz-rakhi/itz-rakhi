@@ -14,9 +14,12 @@ Passionate about building modern web applications and interactive dashboards usi
 - 📊 Interested in Data Analytics & Dashboard Development
 - 🌱 Currently learning AWS, Tableau, Spring Boot & React.js
 - 🚀 Building real-world projects to improve development and analytical skills
-- 📌 Interested in Web Development, Cloud Computing & Data Visualization
-- 🤝 Open to Internship and Collaboration Opportunities
+- ☁️ Exploring Cloud Computing and Data Visualization technologies
+- 🤝 Open to Internships, Job Opportunities & Collaborations
+- 📌 Interested in Software Development, Data Analytics & Cloud Technologies
 - ⚡ Fun fact: I love transforming ideas into creative digital solutions
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakhi-s-0bb067346/?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rrakhis412005@gmail.com) 
