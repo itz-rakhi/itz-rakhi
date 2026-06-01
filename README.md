@@ -1,3 +1,22 @@
+<h1 align="center">Hi 👋, I'm Rakhi Samant</h1>
+<h3 align="center">Computer Engineering Student | Java Full Stack Developer | Data Analytics Enthusiast</h3>
+
+<p align="center">
+Passionate about building modern web applications and interactive dashboards using Java Full Stack technologies and Data Analytics tools.
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Engineering Student at Mumbai University (2022–2026)
+- 💻 Skilled in Java Full Stack Development
+- 📊 Interested in Data Analytics & Dashboard Development
+- 🌱 Currently learning AWS, Tableau, Spring Boot & React.js
+- 🚀 Building real-world projects to improve development and analytical skills
+- 📌 Interested in Web Development, Cloud Computing & Data Visualization
+- 🤝 Open to Internship and Collaboration Opportunities
+- ⚡ Fun fact: I love transforming ideas into creative digital solutions
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakhi-s-0bb067346/?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rrakhis412005@gmail.com) 
